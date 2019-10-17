@@ -19,7 +19,7 @@
         String icon = "fa-accessible-icon";
         String [] colors = new String[] {"blue", "yellow", "red", "brown", "lightpurple", "green", "white"};
         String [] texts = new String[] {"剪刀", "石頭", "布"};
-        String [] icons = new String[] {"fa-accessible-icon"};
+        String [] icons = new String[] {"fa-accessible-icon", "fa-accusoft"};
         
         String parameter = request.getParameter("color");
         if (parameter != null) {
